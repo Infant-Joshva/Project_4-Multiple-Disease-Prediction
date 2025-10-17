@@ -92,7 +92,23 @@ streamlit run app/streamlit_app.py
 
 ## 📷 Screenshots
 
-### Streamlit Prediction
+### 📄 Overview
+![Overview](https://github.com/user-attachments/assets/b6c2c291-4391-4ab5-a391-218a24d2b536)
+
+---
+
+### 🩸 Kidney Disease
+![Kidney Disease](https://github.com/user-attachments/assets/51bc480c-1aaa-4f22-ba7b-22a170b37a78)
+
+---
+
+### 🧬 Liver Disease
+![Liver Disease](https://github.com/user-attachments/assets/833e25f0-f1ae-4933-bc4e-622d2de230da)
+
+---
+
+### 🧩 Parkinsons Disease
+![Parkinsons Disease](https://github.com/user-attachments/assets/9fd546a0-059c-4419-b136-ef07664d5679)
 
 ---
 
