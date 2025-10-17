@@ -22,6 +22,10 @@ Multiple Disease Prediction is an advanced Data Science project that leverages m
 
 ```
 📂 multiple-disease-prediction
+|
+├── 📁 app/                           # Streamlit application code
+│   └── streamlit_app.py
+|
 ├── 📁 data/
 │   ├── 📁 raw/                       # Original/raw datasets
 │   │   ├── kidney_disease.csv
@@ -33,18 +37,15 @@ Multiple Disease Prediction is an advanced Data Science project that leverages m
 │   │   ├── liver_disease_cleaned.csv
 │   │   └── parkinsons_disease_cleaned.csv
 │
-├── 📁 notebooks/                     # google colab notebooks for EDA & modeling
-│   ├── Kidney_Disease_Prediction.ipynb
-│   ├── Liver_Disease_Prediction.ipynb
-│   ├── Parkinsons_Prediction.ipynb
-│
 ├── 📁 models/                        # Trained ML models (saved as pickle files)
 │   ├── kidney_model.pkl
 │   ├── liver_model.pkl
 │   └── parkinsons_model.pkl
-│
-├── 📁 app/                           # Streamlit application code
-│   └── streamlit_app.py
+|
+├── 📁 notebooks/                     # google colab notebooks for EDA & modeling
+│   ├── Kidney_Disease_Prediction.ipynb
+│   ├── Liver_Disease_Prediction.ipynb
+│   ├── Parkinsons_Prediction.ipynb
 │
 ├── 📁 video/                         # Project demo video
 │   └── project_demo.mp4
@@ -91,7 +92,23 @@ streamlit run app/streamlit_app.py
 
 ## 📷 Screenshots
 
-### Streamlit Prediction
+### 📄 Overview
+![Overview](https://github.com/user-attachments/assets/b6c2c291-4391-4ab5-a391-218a24d2b536)
+
+---
+
+### 🩸 Kidney Disease
+![Kidney Disease](https://github.com/user-attachments/assets/51bc480c-1aaa-4f22-ba7b-22a170b37a78)
+
+---
+
+### 🧬 Liver Disease
+![Liver Disease](https://github.com/user-attachments/assets/833e25f0-f1ae-4933-bc4e-622d2de230da)
+
+---
+
+### 🧩 Parkinsons Disease
+![Parkinsons Disease](https://github.com/user-attachments/assets/9fd546a0-059c-4419-b136-ef07664d5679)
 
 ---
 
