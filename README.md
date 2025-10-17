@@ -90,7 +90,7 @@ streamlit run app/main.py
 
 ---
 
-## 📷 Screenshots
+## 📷 App Screenshots
 
 ### 📄 Overview
 ![Overview](https://github.com/user-attachments/assets/b6c2c291-4391-4ab5-a391-218a24d2b536)
