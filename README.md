@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 3. Run the Streamlit app  
 ```bash
-streamlit run app/streamlit_app.py
+streamlit run app/main.py
 ```
 ---
 
